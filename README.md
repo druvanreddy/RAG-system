@@ -2,7 +2,7 @@
 
 A full-stack Retrieval-Augmented Generation (RAG) system that lets you upload PDF/TXT documents and ask questions about them using AI. Built with a modern React frontend and a Python FastAPI backend, featuring semantic search, cross-encoder reranking, and LLM-powered answer generation.
 
-![Dark Theme](project-images/07-dark-theme-home.png)
+![Dark Theme](project-images/02-dark-hero-home.png)
 
 ## Features
 
@@ -59,20 +59,15 @@ A full-stack Retrieval-Augmented Generation (RAG) system that lets you upload PD
 
 ## Screenshots
 
-### Dark Theme
-| Home Page | Chat Response | Source Panel |
-|-----------|--------------|--------------|
-| ![](project-images/07-dark-theme-home.png) | ![](project-images/13-dark-theme-full-chat.png) | ![](project-images/01-source-panel.png) |
-
-### Light Theme
-| Home Page | Chat Response | Source Panel |
-|-----------|--------------|--------------|
-| ![](project-images/08-light-theme-home.png) | ![](project-images/09-light-theme-chat.png) | ![](project-images/10-light-theme-sources.png) |
+### Application Views
+| Hero Home | Chat Conversation | AI Response with Metrics |
+|-----------|-------------------|------------------------|
+| ![](project-images/02-dark-hero-home.png) | ![](project-images/01-dark-home-chat.png) | ![](project-images/04-dark-ai-response-sources.png) |
 
 ### Features
-| Processing Settings | Chats Tab | Delete Confirmation | Code Formatting |
-|-------------------|-----------|-------------------|----------------|
-| ![](project-images/04-processing-settings.png) | ![](project-images/05-chats-tab.png) | ![](project-images/06-delete-chat-confirmation.png) | ![](project-images/14-dark-code-formatting.png) |
+| Source Panel | Documents Tab | Chat Sessions | Delete Confirmation |
+|-------------|---------------|---------------|-------------------|
+| ![](project-images/05-dark-source-panel.png) | ![](project-images/06-dark-docs-tab.png) | ![](project-images/07-dark-chats-tab.png) | ![](project-images/08-dark-delete-confirmation.png) |
 
 ## Project Structure
 
