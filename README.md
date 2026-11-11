@@ -133,7 +133,7 @@ RAG-system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/RAG-system.git
+   git clone https://github.com/druvanreddy/RAG-system.git
    cd RAG-system
    ```
 
